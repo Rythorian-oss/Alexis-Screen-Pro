@@ -1,6 +1,6 @@
-using Microsoft.Win32;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
+using Microsoft.Win32;
 
 namespace AlexisScreenPro.Services;
 
