@@ -1,11 +1,11 @@
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
 using H.NotifyIcon;
 using H.NotifyIcon.Core;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
 
 namespace AlexisScreenPro.Services;
 
