@@ -1,7 +1,7 @@
-using System.Diagnostics;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
 using AlexisScreenPro.Models;
+using System.Diagnostics;
 
 namespace AlexisScreenPro.Services;
 
