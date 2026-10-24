@@ -1,7 +1,7 @@
-using System.Collections.ObjectModel;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
 using AlexisScreenPro.Models;
+using System.Collections.ObjectModel;
 
 namespace AlexisScreenPro.ViewModels;
 
