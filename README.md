@@ -160,7 +160,6 @@ Microphone     ─────┘
 - `SettingsService` writes atomically via a temp file and rename.
 - UI windows cancel close and hide to tray unless the application is genuinely shutting down.
 
-See [AUDIT.md](AUDIT.md) for the full post-generation audit, findings, corrections, and validation record.
 
 ---
 
