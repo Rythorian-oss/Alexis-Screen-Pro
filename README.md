@@ -3,8 +3,11 @@
 **Cobalt Glassmorphism screen recording for Windows.** A full-screen H.264 capture studio that lives in the notification area, records system audio and microphone in sync, auto-stops on a timer, and saves every MP4 directly to `Desktop\ASP`.
 
 Built with C# 13 on **.NET 9** and WPF, with a custom acrylic window host, a hand-built cobalt design system, and a background capture engine that never blocks the UI thread.
-<img width="460" height="720" alt="widget-preview" src="https://github.com/user-attachments/assets/704e38d5-b135-4122-bcdf-982b145b72f3" />
-<img width="820" height="720" alt="settings-preview" src="https://github.com/user-attachments/assets/4e6d5297-4e30-4b9b-97db-3f1567ead1a5" />
+
+<p align="center">
+  <img src="docs/widget-preview.png" alt="Alexis Screen Pro cobalt glass recording widget" width="380" />
+  <img src="docs/settings-preview.png" alt="Alexis Screen Pro Studio Settings" width="560" />
+</p>
 
 ---
 
@@ -159,6 +162,7 @@ Microphone     ─────┘
 - `SettingsService` writes atomically via a temp file and rename.
 - UI windows cancel close and hide to tray unless the application is genuinely shutting down.
 
+See [AUDIT.md](AUDIT.md) for the full post-generation audit, findings, corrections, and validation record.
 
 ---
 
