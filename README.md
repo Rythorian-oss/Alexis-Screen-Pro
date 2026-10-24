@@ -4,10 +4,8 @@
 
 Built with C# 13 on **.NET 9** and WPF, with a custom acrylic window host, a hand-built cobalt design system, and a background capture engine that never blocks the UI thread.
 
-<p align="center">
-  <img src="docs/widget-preview.png" alt="Alexis Screen Pro cobalt glass recording widget" width="380" />
-  <img src="docs/settings-preview.png" alt="Alexis Screen Pro Studio Settings" width="560" />
-</p>
+<img width="820" height="720" alt="settings-preview" src="https://github.com/user-attachments/assets/8cac2dcd-bae6-4dfb-8dbe-14cb63330d69" />
+<img width="460" height="720" alt="widget-preview" src="https://github.com/user-attachments/assets/3fef8a16-167b-4980-99c5-2565499d8e6f" />
 
 ---
 
