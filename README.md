@@ -1,6 +1,6 @@
 # Alexis Screen Pro
 
-**Cobalt Glassmorphism screen recording for Windows.** A full-screen H.264 capture studio that lives in the notification area, records system audio and microphone in sync, auto-stops on a timer, and saves every MP4 directly to `Desktop\ASP`.
+**Created by: Justin L. Ross, Cobalt Glassmorphism screen recording for Windows.** A full-screen H.264 capture studio that lives in the notification area, records system audio and microphone in sync, auto-stops on a timer, and saves every MP4 directly to `Desktop\ASP`.
 
 Built with C# 13 on **.NET 9** and WPF, with a custom acrylic window host, a hand-built cobalt design system, and a background capture engine that never blocks the UI thread.
 
