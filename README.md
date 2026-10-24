@@ -6,7 +6,7 @@ Built with C# 13 on **.NET 9** and WPF, with a custom acrylic window host, a han
 
 <p align="center">
   <img src="docs/widget-preview.png" alt="Alexis Screen Pro cobalt glass recording widget" width="380" />
-  <img src="docs/settings-preview.png" alt="Alexis Screen Pro Studio Settings" width="560" />
+  <img src=""C:\Users\Drukaz\Desktop\AlexisScreenPro-v1.0.0-source\docs\settings-preview.png"" alt="Alexis Screen Pro Studio Settings" width="560" />
 </p>
 
 ---
