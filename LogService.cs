@@ -1,7 +1,7 @@
-using System.Collections.Concurrent;
-using System.Text;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
+using System.Collections.Concurrent;
+using System.Text;
 
 namespace AlexisScreenPro.Services;
 
