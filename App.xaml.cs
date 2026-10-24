@@ -1,5 +1,3 @@
-// Created By: JUSTIN LINWOOD ROSS | 2026 | GITHUB SOFTWARE REPOSITORY 
-// Copyright(c) 2026 (Rythorian) JUSTIN LINWOOD ROSS
 using System.Windows;
 using System.Windows.Threading;
 using AlexisScreenPro.Core;
