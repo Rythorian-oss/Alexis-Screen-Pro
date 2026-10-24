@@ -1,7 +1,7 @@
-using System.Text.Json;
 using AlexisScreenPro.Core;
 using AlexisScreenPro.Interfaces;
 using AlexisScreenPro.Models;
+using System.Text.Json;
 
 namespace AlexisScreenPro.Services;
 
